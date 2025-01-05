@@ -52,16 +52,43 @@ When I'm not coding, I enjoy diving into books for inspiration and exploring how
 
 ## 💼 Projects  
 
-### [Real-Time Data Optimization with Genetic Algorithms](https://github.com/lancedalanon/genetic-algorithm-cloud-computing)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=websocket&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+---
+
+### [Medicine OCR Mobile App](https://github.com/lancedalanon/medicine-ocr-react-native)  
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![EasyOCR](https://img.shields.io/badge/EasyOCR-000000?style=for-the-badge&logo=python&logoColor=white) 
 
 **Description**:  
-This project focuses on optimizing real-time data processing for complex systems using **genetic algorithms**. The core goal was to improve the efficiency and performance of data-handling systems by automating optimization tasks that traditionally require manual fine-tuning. The solution integrates **WebSockets** for real-time communication, allowing for continuous, live updates without overwhelming the server or client.
+A **mobile application** that enables users to scan and extract text from medicine labels, prescriptions, and packaging using Optical Character Recognition (OCR) technology. This app aims to make medical information more accessible by allowing users to quickly retrieve key details from any medicine packaging. It uses **EasyOCR** to detect and extract text, with a focus on providing users with immediate and accurate results.
 
 **Goals**:  
-- Enhance the performance of real-time data systems with minimal human intervention.
-- Automate optimization of complex datasets using genetic algorithms to identify the best solution in real-time.
-- Ensure real-time data is processed with minimal delay and high efficiency.
+- Provide users with an easy-to-use mobile solution for scanning and reading medicine labels.
+- Integrate **Text-to-Speech** functionality to read out the detected text, aiding visually impaired users.
+- Ensure real-time processing of scanned images for instant results.
+
+---
+
+### [Medicine OCR Backend API](https://github.com/lancedalanon/medicine-ocr-flask-api)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![EasyOCR](https://img.shields.io/badge/EasyOCR-000000?style=for-the-badge&logo=python&logoColor=white)
+
+**Description**:  
+The **backend API** for the Medicine OCR project, built using **Flask**, serves as the core for processing uploaded images. Using **EasyOCR**, the API is capable of extracting text from scanned medicine labels, packaging, and prescriptions. 
+
+**Goals**:  
+- Extract key data from images related to prescriptions, packaging, and medicine labels.
+- Ensure high availability and scalability to handle numerous API requests simultaneously.
+
+---
+
+### [Real-Time Data Optimization with Genetic Algorithms](https://github.com/lancedalanon/genetic-algorithm-cloud-computing)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Description**:  
+This project explores how genetic algorithms can improve real-time data processing in complex systems. It tests whether genetic algorithms can optimize data handling efficiently in live environments, reducing the need for manual adjustments. The system uses WebSockets for real-time updates, ensuring fast and efficient performance.
+
+**Goals**:  
+- Investigate how genetic algorithms can enhance real-time data processing.
+- Show how genetic algorithms can optimize large datasets quickly and efficiently.
+- Demonstrate the benefits of using genetic algorithms in live data systems.
 
 ---
 
@@ -92,32 +119,6 @@ This is a creative spin on the classic **Rock-Paper-Scissors** game, adding **RP
 
 ---
 
-### [Medicine OCR Mobile App](https://github.com/lancedalanon/medicine-ocr-react-native)  
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![EasyOCR](https://img.shields.io/badge/EasyOCR-000000?style=for-the-badge&logo=python&logoColor=white) 
-
-**Description**:  
-A **mobile application** that enables users to scan and extract text from medicine labels, prescriptions, and packaging using Optical Character Recognition (OCR) technology. This app aims to make medical information more accessible by allowing users to quickly retrieve key details from any medicine packaging. It uses **EasyOCR** to detect and extract text, with a focus on providing users with immediate and accurate results.
-
-**Goals**:  
-- Provide users with an easy-to-use mobile solution for scanning and reading medicine labels.
-- Integrate **Text-to-Speech** functionality to read out the detected text, aiding visually impaired users.
-- Ensure real-time processing of scanned images for instant results.
-
----
-
-### [Medicine OCR Backend API](https://github.com/lancedalanon/medicine-ocr-flask-api)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![EasyOCR](https://img.shields.io/badge/EasyOCR-000000?style=for-the-badge&logo=python&logoColor=white)
-
-**Description**:  
-The **backend API** for the Medicine OCR project, built using **Flask**, serves as the core for processing uploaded images. Using **EasyOCR**, the API is capable of extracting text from scanned medicine labels, packaging, and prescriptions. The API supports secure access through **API key authentication** and is designed to handle a high volume of requests efficiently.
-
-**Goals**:  
-- Provide a secure API for processing medicine-related content with OCR.
-- Extract key data from images related to prescriptions, packaging, and medicine labels.
-- Ensure high availability and scalability to handle numerous API requests simultaneously.
-
----
-
 ## ✨ Goals  
 - 📈 Continue advancing toward my goal of becoming a **Senior Developer**.  
 - 💼 Explore **enterprise-level languages** such as **Angular**, **Java**, and **C#**.  
@@ -131,7 +132,7 @@ The **backend API** for the Medicine OCR project, built using **Flask**, serves 
 - **Website:** [lancedalanon.netlify.app](https://lancedalanon.netlify.app/)  
 - **Email:** [lancedalanon@gmail.com](mailto:lancedalanon@gmail.com)  
 - **LinkedIn:** [Lance Orville Dalanon](https://www.linkedin.com/in/lancedalanon/)  
-- **GitHub:** [Lance Orville Dalanon](https://github.com/lancedalanon)  
+- **GitHub:** [Lance Dalanon](https://github.com/lancedalanon)  
 
 ---
 
