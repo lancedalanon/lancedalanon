@@ -130,7 +130,7 @@ This is a creative spin on the classic **Rock-Paper-Scissors** game, adding **RP
 
 ## 📫 Contact Me  
 - **Website:** [lancedalanon.netlify.app](https://lancedalanon.netlify.app/)  
-- **Email:** [lancedalanon@gmail.com](mailto:lancedalanon@gmail.com)  
+- **Email:** [lanceorville5@gmail.com](mailto:lanceorville5@gmail.com)  
 - **LinkedIn:** [Lance Orville Dalanon](https://linkedin.com/in/lance-orville-dalanon-453109166/) 
 - **GitHub:** [Lance Dalanon](https://github.com/lancedalanon)  
 
