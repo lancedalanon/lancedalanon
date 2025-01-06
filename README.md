@@ -1,5 +1,9 @@
 # 👋 Hello, I'm Lance Orville Dalanon!  
 
+**🚀 Aspiring Senior Developer | Full-Stack Software Engineer**
+
+💡 I thrive on solving complex problems and building applications that make a difference. From creating accessible solutions to mentoring aspiring developers, I aim to leave a positive mark in the tech community.
+
 ## 🌐 About Me  
 I'm a **Full-Stack Software Engineer** with a deep passion for creating websites and applications that make a lasting impact. I specialize in **JavaScript**, **Laravel**, **React.js**, **Vue.js**, and **Next.js**, and love transforming ideas into **efficient, scalable, and meaningful** solutions.  
 
@@ -54,7 +58,7 @@ When I'm not coding, I enjoy diving into books for inspiration and exploring how
 
 ---
 
-### [Medicine OCR Mobile App](https://github.com/lancedalanon/medicine-ocr-react-native)  
+### [Medicine OCR Mobile App (2024)](https://github.com/lancedalanon/medicine-ocr-react-native)  
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![EasyOCR](https://img.shields.io/badge/EasyOCR-000000?style=for-the-badge&logo=python&logoColor=white) 
 
 **Description**:  
@@ -67,7 +71,7 @@ A **mobile application** that enables users to scan and extract text from medici
 
 ---
 
-### [Medicine OCR Backend API](https://github.com/lancedalanon/medicine-ocr-flask-api)  
+### [Medicine OCR Backend API (2024)](https://github.com/lancedalanon/medicine-ocr-flask-api)  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![EasyOCR](https://img.shields.io/badge/EasyOCR-000000?style=for-the-badge&logo=python&logoColor=white)
 
 **Description**:  
@@ -79,7 +83,7 @@ The **backend API** for the Medicine OCR project, built using **Flask**, serves 
 
 ---
 
-### [Real-Time Data Optimization with Genetic Algorithms](https://github.com/lancedalanon/genetic-algorithm-cloud-computing)  
+### [Real-Time Data Optimization with Genetic Algorithms (2024)](https://github.com/lancedalanon/genetic-algorithm-cloud-computing)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Description**:  
@@ -92,7 +96,7 @@ This project explores how genetic algorithms can improve real-time data processi
 
 ---
 
-### [Tourist Management Website](https://github.com/lancedalanon/Intramuros)  
+### [Tourist Management Website (2022-2023)](https://github.com/lancedalanon/Intramuros)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Description**:  
@@ -106,7 +110,7 @@ Developed a comprehensive **tourist management website** for the **Intramuros** 
 
 ---
 
-### [Game of Nim](https://github.com/lancedalanon/Game-Of-Nim)  
+### [Game of Nim (2022)](https://github.com/lancedalanon/Game-Of-Nim)  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Description**:  
@@ -119,7 +123,7 @@ A Java implementation of the classic Game of Nim featuring multiple AI difficult
 
 ---
 
-### [CPU Scheduling Simulator - OS Process Management](https://github.com/lancedalanon/OS)
+### [CPU Scheduling Simulator - OS Process Management (2021-2022)](https://github.com/lancedalanon/OS)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Description**:  
@@ -133,7 +137,7 @@ A Python-based CPU scheduling simulator that implements four fundamental schedul
 
 ---
 
-### [Pixel RPS](https://github.com/lancedalanon/Pixel-RPS)  
+### [Pixel RPS (2021-2022)](https://github.com/lancedalanon/Pixel-RPS)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Description**:  
