@@ -106,19 +106,6 @@ Developed a comprehensive **tourist management website** for the **Intramuros** 
 
 ---
 
-### [Pixel RPS](https://github.com/lancedalanon/Pixel-RPS)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Description**:  
-This is a creative spin on the classic **Rock-Paper-Scissors** game, adding **RPG elements** such as health points, special moves, and turn-based combat. The aim of the project was to integrate traditional gaming elements with modern interactive features for a more immersive gaming experience. The game was built using **Python** and **Pygame**.
-
-**Goals**:  
-- Revitalize the classic game of Rock-Paper-Scissors by incorporating RPG mechanics.
-- Create a fun, engaging game that offers more complexity through the addition of health points, moves, and combat rounds.
-- Optimize the game’s performance for smooth and responsive gameplay.
-
----
-
 ### [Game of Nim](https://github.com/lancedalanon/Game-Of-Nim)  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
@@ -129,6 +116,19 @@ A Java implementation of the classic Game of Nim featuring multiple AI difficult
 - Create an engaging version of Nim with intuitive player interactions
 - Implement multiple AI difficulty levels with distinct strategic behaviors
 - Demonstrate object-oriented principles and interface-based design in Java
+
+---
+
+### [Pixel RPS](https://github.com/lancedalanon/Pixel-RPS)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Description**:  
+This is a creative spin on the classic **Rock-Paper-Scissors** game, adding **RPG elements** such as health points, special moves, and turn-based combat. The aim of the project was to integrate traditional gaming elements with modern interactive features for a more immersive gaming experience. The game was built using **Python** and **Pygame**.
+
+**Goals**:  
+- Revitalize the classic game of Rock-Paper-Scissors by incorporating RPG mechanics.
+- Create a fun, engaging game that offers more complexity through the addition of health points, moves, and combat rounds.
+- Optimize the game’s performance for smooth and responsive gameplay.
 
 ---
 
