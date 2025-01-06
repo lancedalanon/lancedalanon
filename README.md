@@ -119,6 +119,19 @@ This is a creative spin on the classic **Rock-Paper-Scissors** game, adding **RP
 
 ---
 
+### [Game of Nim](https://github.com/lancedalanon/Game-Of-Nim)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Description**:  
+A Java implementation of the classic Game of Nim featuring multiple AI difficulties and interactive gameplay. The game implements both random-strategy and smart AI opponents, allowing players to test different strategic approaches while managing resource depletion mechanics.
+
+**Goals**:  
+- Create an engaging version of Nim with intuitive player interactions
+- Implement multiple AI difficulty levels with distinct strategic behaviors
+- Demonstrate object-oriented principles and interface-based design in Java
+
+---
+
 ## ✨ Goals  
 - 📈 Continue advancing toward my goal of becoming a **Senior Developer**.  
 - 💼 Explore **enterprise-level languages** such as **Angular**, **Java**, and **C#**.  
