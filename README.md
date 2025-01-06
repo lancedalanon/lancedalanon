@@ -4,7 +4,7 @@
 
 💡 I thrive on solving complex problems and building applications that make a difference. From creating accessible solutions to mentoring aspiring developers, I aim to leave a positive mark in the tech community.
 
-## 🌐 About Me  
+# 🌐 About Me  
 I'm a **Full-Stack Software Engineer** with a deep passion for creating websites and applications that make a lasting impact. I specialize in **JavaScript**, **Laravel**, **React.js**, **Vue.js**, and **Next.js**, and love transforming ideas into **efficient, scalable, and meaningful** solutions.  
 
 💻 Coding isn't just a job for me—it's a way to solve real-world problems, deliver exceptional user experiences, and create software that makes a difference. I'm focused on always improving my craft, striving to be a **Senior Developer**, and mentoring others in the process. I stay excited about the ever-evolving tech landscape, constantly learning, and embracing the future.  
@@ -13,9 +13,9 @@ When I'm not coding, I enjoy diving into books for inspiration and exploring how
 
 ---
 
-## 🛠️ Technologies & Tools  
+# 🛠️ Technologies & Tools  
 
-### **Languages**  
+## **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -27,7 +27,7 @@ When I'm not coding, I enjoy diving into books for inspiration and exploring how
 
 ---
 
-### **Frameworks & Libraries**  
+## **Frameworks & Libraries**  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
@@ -41,7 +41,7 @@ When I'm not coding, I enjoy diving into books for inspiration and exploring how
 
 ---
 
-### **Tools & Platforms**  
+## **Tools & Platforms**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -149,7 +149,7 @@ This is a creative spin on the classic **Rock-Paper-Scissors** game, adding **RP
 
 ---
 
-## 🎯 **Goals**
+# 🎯 **Goals**
 - 📈 Continue advancing toward my goal of becoming a **Senior Developer**.  
 - 💼 Explore **enterprise-level languages** such as **Angular**, **Java**, and **C#**.  
 - 🛠️ Deepen my expertise in **Unit and Feature Testing** to ensure high-quality code.  
@@ -158,7 +158,7 @@ This is a creative spin on the classic **Rock-Paper-Scissors** game, adding **RP
 
 ---
 
-## 📫 Contact Me  
+# 📫 Contact Me  
 - **Website:** [lancedalanon.netlify.app](https://lancedalanon.netlify.app/)  
 - **Email:** [lanceorville5@gmail.com](mailto:lanceorville5@gmail.com)  
 - **LinkedIn:** [Lance Orville Dalanon](https://linkedin.com/in/lance-orville-dalanon-453109166/) 
