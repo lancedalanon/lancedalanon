@@ -54,7 +54,7 @@ When I'm not coding, I enjoy diving into books for inspiration and exploring how
 
 ---
 
-# 🛠️ Projects
+# 📑 Projects
 
 ---
 
