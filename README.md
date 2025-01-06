@@ -64,7 +64,7 @@ When I'm not coding, I enjoy diving into books for inspiration and exploring how
 ### **Description**  
 A **mobile application** that enables users to scan and extract text from medicine labels, prescriptions, and packaging using Optical Character Recognition (OCR) technology. This app aims to make medical information more accessible by allowing users to quickly retrieve key details from any medicine packaging. It uses **EasyOCR** to detect and extract text, with a focus on providing users with immediate and accurate results.
 
-### **Goals**  
+### **Key Features**  
 - **User-Friendly**: Provide users with an easy-to-use mobile solution for scanning and reading medicine labels.  
 - **Accessibility**: Integrate **Text-to-Speech** functionality to read out the detected text, aiding visually impaired users.  
 - **Real-Time Processing**: Ensure real-time processing of scanned images for instant results.
@@ -77,7 +77,7 @@ A **mobile application** that enables users to scan and extract text from medici
 ### **Description**  
 The **backend API** for the Medicine OCR project, built using **Flask**, serves as the core for processing uploaded images. Using **EasyOCR**, the API is capable of extracting text from scanned medicine labels, packaging, and prescriptions. 
 
-### **Goals**  
+### **Key Features**  
 - **Data Extraction**: Extract key data from images related to prescriptions, packaging, and medicine labels.  
 - **Scalability**: Ensure high availability and scalability to handle numerous API requests simultaneously.
 
@@ -89,7 +89,7 @@ The **backend API** for the Medicine OCR project, built using **Flask**, serves 
 ### **Description**  
 This project explores how genetic algorithms can improve real-time data processing in complex systems. It tests whether genetic algorithms can optimize data handling efficiently in live environments, reducing the need for manual adjustments. The system uses **WebSockets** for real-time updates, ensuring fast and efficient performance.
 
-### **Goals**  
+### **Key Features**  
 - **Optimization**: Investigate how genetic algorithms can enhance real-time data processing.  
 - **Fast Data Handling**: Show how genetic algorithms can optimize large datasets quickly and efficiently.  
 - **Live Data Systems**: Demonstrate the benefits of using genetic algorithms in live data systems.
@@ -102,7 +102,7 @@ This project explores how genetic algorithms can improve real-time data processi
 ### **Description**  
 Developed a comprehensive **tourist management website** for the **Intramuros** tourist destination in the Philippines. The project aims to provide a seamless experience for managing tourist data, bookings, and on-site activities. It incorporates **role-based access control** for both admins and users, allowing for dynamic management of information.
 
-### **Goals**  
+### **Key Features**  
 - **Efficient Management**: Build a platform for efficient management of tourist-related data for administrators.  
 - **User Interaction**: Provide tourists with an intuitive interface to book and explore activities.  
 - **Device Responsiveness**: Ensure responsive design for accessibility across all devices.  
@@ -116,7 +116,7 @@ Developed a comprehensive **tourist management website** for the **Intramuros** 
 ### **Description**  
 A Java implementation of the classic Game of Nim featuring multiple AI difficulties and interactive gameplay. The game implements both random-strategy and smart AI opponents, allowing players to test different strategic approaches while managing resource depletion mechanics.
 
-### **Goals**  
+### **Key Features**  
 - **Engaging Gameplay**: Create an engaging version of Nim with intuitive player interactions.  
 - **AI Integration**: Implement multiple AI difficulty levels with distinct strategic behaviors.  
 - **OOP Design**: Demonstrate object-oriented principles and interface-based design in Java.
@@ -129,7 +129,7 @@ A Java implementation of the classic Game of Nim featuring multiple AI difficult
 ### **Description**  
 A Python-based CPU scheduling simulator that implements four fundamental scheduling algorithms (FCFS, SJF, SRTF, and RR). The project calculates key performance metrics and generates visual Gantt charts to demonstrate process execution flow in operating systems.
 
-### **Goals**  
+### **Key Features**  
 - **Educational Tool**: Demonstrate core CPU scheduling algorithms used in operating systems.  
 - **Visualization**: Visualize process execution through detailed Gantt charts.  
 - **Performance Metrics**: Calculate and analyze essential scheduling metrics for performance comparison.
@@ -142,14 +142,14 @@ A Python-based CPU scheduling simulator that implements four fundamental schedul
 ### **Description**  
 This is a creative spin on the classic **Rock-Paper-Scissors** game, adding **RPG elements** such as health points, special moves, and turn-based combat. The aim of the project was to integrate traditional gaming elements with modern interactive features for a more immersive gaming experience. The game was built using **Python** and **Pygame**.
 
-### **Goals**  
+### **Key Features**  
 - **Modernized Gameplay**: Revitalize the classic game of Rock-Paper-Scissors by incorporating RPG mechanics.  
 - **Strategic Complexity**: Create a fun, engaging game that offers more complexity through the addition of health points, moves, and combat rounds.  
 - **Optimized Performance**: Optimize the game’s performance for smooth and responsive gameplay.
 
 ---
 
-## ✨ Goals  
+## 🎯 **Goals**
 - 📈 Continue advancing toward my goal of becoming a **Senior Developer**.  
 - 💼 Explore **enterprise-level languages** such as **Angular**, **Java**, and **C#**.  
 - 🛠️ Deepen my expertise in **Unit and Feature Testing** to ensure high-quality code.  
