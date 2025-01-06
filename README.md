@@ -119,6 +119,20 @@ A Java implementation of the classic Game of Nim featuring multiple AI difficult
 
 ---
 
+### [CPU Scheduling Simulator - OS Process Management](https://github.com/lancedalanon/OS)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Description**:  
+A Python-based CPU scheduling simulator that implements four fundamental scheduling algorithms (FCFS, SJF, SRTF, and RR). The project calculates key performance metrics and generates visual Gantt charts to demonstrate process execution flow in operating systems.
+
+**Goals**:  
+- Demonstrate core CPU scheduling algorithms used in operating systems
+- Visualize process execution through detailed Gantt charts
+- Calculate and analyze essential scheduling metrics for performance comparison
+- Provide an educational tool for understanding OS process management
+
+---
+
 ### [Pixel RPS](https://github.com/lancedalanon/Pixel-RPS)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
