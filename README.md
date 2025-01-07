@@ -58,28 +58,27 @@ When I'm not coding, I enjoy diving into books for inspiration and exploring how
 
 ---
 
-## 💼 [Medicine OCR Mobile App (2024)](https://github.com/lancedalanon/medicine-ocr-react-native)  
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![EasyOCR](https://img.shields.io/badge/EasyOCR-000000?style=for-the-badge&logo=python&logoColor=white)
+## 💼 Medicine OCR Project (2024)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![EasyOCR](https://img.shields.io/badge/EasyOCR-000000?style=for-the-badge&logo=python&logoColor=white)
 
-### **Description**  
-A **mobile application** that enables users to scan and extract text from medicine labels, prescriptions, and packaging using Optical Character Recognition (OCR) technology. This app aims to make medical information more accessible by allowing users to quickly retrieve key details from any medicine packaging. It uses **EasyOCR** to detect and extract text, with a focus on providing users with immediate and accurate results.
+### **Description**
+The **Medicine OCR Project** is a solution that enables users to scan and extract text from medicine labels, prescriptions, and packaging using Optical Character Recognition (OCR) technology. The project consists of two main components:
 
-### **Key Features**  
-- **User-Friendly**: Provide users with an easy-to-use mobile solution for scanning and reading medicine labels.  
-- **Accessibility**: Integrate **Text-to-Speech** functionality to read out the detected text, aiding visually impaired users.  
-- **Real-Time Processing**: Ensure real-time processing of scanned images for instant results.
+1. **[Mobile App](https://github.com/lancedalanon/medicine-ocr-react-native)**: A **React Native** mobile app that allows users to scan medicine labels and retrieve key details using **EasyOCR**.
+2. **[Backend API](https://github.com/lancedalanon/medicine-ocr-flask-api)**: A **Flask** API that processes the images uploaded from the mobile app, extracting text using **EasyOCR**.
 
----
+This project aims to make medical information more accessible, enabling users to quickly retrieve important details from any medicine packaging. It also includes a **Text-to-Speech** feature to assist visually impaired users.
 
-## 🖥️ [Medicine OCR Backend API (2024)](https://github.com/lancedalanon/medicine-ocr-flask-api)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![EasyOCR](https://img.shields.io/badge/EasyOCR-000000?style=for-the-badge&logo=python&logoColor=white)
+### **Key Features**
+- **Mobile App**:
+  - **User-Friendly**: Easily scan and read medicine labels.
+  - **Accessibility**: Integration of **Text-to-Speech** for visually impaired users.
+  - **Backend Integration**: Seamless communication with the **Backend API** for image processing.
 
-### **Description**  
-The **backend API** for the Medicine OCR project, built using **Flask**, serves as the core for processing uploaded images. Using **EasyOCR**, the API is capable of extracting text from scanned medicine labels, packaging, and prescriptions. 
-
-### **Key Features**  
-- **Data Extraction**: Extract key data from images related to prescriptions, packaging, and medicine labels.  
-- **Scalability**: Ensure high availability and scalability to handle numerous API requests simultaneously.
+- **Backend API**:
+  - **Data Extraction**: Processes images to extract text from medicine labels, prescriptions, and packaging.
+  - **Scalability**: Ensures high performance and scalability for handling multiple API requests.
+  - **Mobile App Integration**: Powers the **Medicine OCR Mobile App** by processing images and returning text data.
 
 ---
 
