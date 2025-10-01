@@ -1,32 +1,22 @@
-# 👋 Hello, I'm Lance Orville Dalanon!  
+# 👋 Hello, I'm Lance Orville Dalanon!
 
-**🚀 Full-Stack Software Engineer | Web & Mobile Apps | Aspiring Technical Lead**
-
-💡 I specialize in building scalable, real-world solutions across web and mobile platforms. From modernizing legacy systems to engineering new platforms from the ground up, I bring both adaptability and innovation to every project.
-
-# 🌐 About Me
-
-I’m a **Full-Stack Software Engineer** with hands-on experience in **PHP**, **JavaScript**, **Python**, and **Dart**, leveraging frameworks like **Laravel**, **Node.js**, **React.js**, **Vue.js**, **Flutter**, and **FastAPI**.
-
-I focus on:
-
-⚡ Building **scalable and secure applications** for web and mobile.
-
-🛠️ Modernizing existing systems to improve **performance and compliance**.
-
-🌍 Delivering solutions that prioritize **impact and user experience**.
-
-I’m continuously improving my craft technically and as a mentor while developing the **leadership skills needed to guide teams and projects as a future Technical Lead**. Always curious and adaptable, I stay ahead of trends to deliver meaningful, innovative solutions.
-
-When I’m not coding, I enjoy learning about **tech’s role in shaping the future** and sharing knowledge with aspiring developers.
+**Full-Stack Software Engineer | Web & Mobile Apps | Aspiring Technical Lead**
 
 ---
 
-# 🛠️ Technologies & Tools  
+### **💡 About Me**
+
+I'm a **Full-Stack Software Engineer** with hands-on experience in **PHP, JavaScript, Python**, and **Dart**. I leverage a robust stack that includes **Laravel, Node.js, React, Vue, Flutter**, and **FastAPI** to build and modernize scalable applications.
+
+My passion lies in crafting **secure, high-performance solutions** that deliver an exceptional user experience. I continuously work on improving my technical skills and developing the **leadership qualities** needed to guide teams and mentor fellow developers. I'm always curious and adaptable, staying ahead of trends to deliver meaningful, innovative solutions.
+
+When I'm not coding, I enjoy learning about **tech's role in shaping the future** and sharing my knowledge with aspiring developers.
 
 ---
 
-## **Languages** 
+### **🛠️ Technologies & Tools**
+
+#### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -35,9 +25,7 @@ When I’m not coding, I enjoy learning about **tech’s role in shaping the fut
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
-
-## **Frameworks & Libraries** 
+#### **Frameworks & Libraries**
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -55,9 +43,7 @@ When I’m not coding, I enjoy learning about **tech’s role in shaping the fut
 ![Shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
-
-## **Tools & Platforms** 
+#### **Tools & Platforms**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -73,20 +59,19 @@ When I’m not coding, I enjoy learning about **tech’s role in shaping the fut
 
 ---
 
-# 🎯 **Goals**
+### **🎯 Goals**
 - 📈 Advance toward becoming a **Senior Developer & Technical Lead**.
 - 💼 Explore **enterprise-level technologies** while deepening expertise in **Laravel, Flutter, Node.js, and FastAPI**.
 - 🛠️ Strengthen skills in **unit/feature testing, scalability, and DevOps practices**.
-- 🤝 Mentor and collaborate with developers to build impactful software. 
+- 🤝 Mentor and collaborate with developers to build impactful software.
 
 ---
 
-# 📫 Contact Me  
-- **Website:** [lancedalanon.netlify.app](https://lancedalanon.netlify.app/)  
-- **Email:** [lanceorville5@gmail.com](mailto:lanceorville5@gmail.com)  
-- **LinkedIn:** [Lance Orville Dalanon](https://linkedin.com/in/lance-orville-dalanon-453109166/) 
+### **📫 Contact Me**
+* **Website:** [lancedalanon.netlify.app](https://lancedalanon.netlify.app/)
+* **Email:** [lanceorville5@gmail.com](mailto:lanceorville5@gmail.com)
+* **LinkedIn:** [Lance Orville Dalanon](https://linkedin.com/in/lance-orville-dalanon-453109166/)
 
 ---
 
 Thanks for visiting! Let’s build the future together! ✌️
-
